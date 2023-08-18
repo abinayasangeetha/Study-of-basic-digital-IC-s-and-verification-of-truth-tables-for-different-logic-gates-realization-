@@ -1,5 +1,5 @@
 ##### Name: ABINAYA S
-##### Reg No 212222230002
+##### Register Number: 212222230002
 # Study of basic digital logic gates and verification of truth tables
 ## AIM:
   To study about the different digital IC’s and to verify the truth table in Quartus for the basic logic gates using Verilog programming.
