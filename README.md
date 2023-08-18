@@ -62,8 +62,8 @@ Check all the gates following the same procedure.
 ## Program:
 '''
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
-Developed by: ABINAYA S
-RegisterNumber:  212222230002
+#### Developed by: ABINAYA S
+#### RegisterNumber:  212222230002
 ```
 ```
 module Exp01 (a,b,y1,y2,y3,y4,y5,y6,y7);
